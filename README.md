@@ -1,1 +1,1 @@
-# cueteacher-ota-updates
+# ota-updates
